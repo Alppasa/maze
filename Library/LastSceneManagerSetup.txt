@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/s0541771_M.AlpAkduman/Meine Abgabe/DSEmptyLevel.unity
+  isLoaded: 1
+  isActive: 1
